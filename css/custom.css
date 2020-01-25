@@ -1,0 +1,52 @@
+body {
+  height: 100%;
+  color: Green;
+  background: url("../images/hero.jpg");
+  background-position: center;
+  background-size: cover;
+  font-family: 'Lato';
+}
+
+#total-price, .total-price-label {
+  display: inline-block;
+}
+
+#total-price {
+  margin-left: 30px;
+  font-size: 36px;
+}
+
+.quantity, #name, #cost {
+  color: black;
+}
+
+.remove, #sort {
+  color: grey;
+}
+
+.new {
+  margin-top: 20px;
+}
+
+#fork {
+  background-color: #009900;
+  color: #fff;
+}
+
+#fork:hover {
+  background-color: #42a2e2;
+}
+
+.remove {
+    border: 0;
+    padding: 4px 8px;
+    background-color: #c66;
+    color: #fff;
+    font-family: $font-bold;
+    font-size: 12px;
+    border-radius: 3px;
+  }
+
+  .remove:hover {
+    background-color: #a44;
+  }
