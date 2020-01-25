@@ -1,5 +1,5 @@
 # General info
-This project is my personal portfolio web page.
+This simple shopping cart project is part of my Altcademy JQuery course.
 
 # Technologies
 Project is created with:
