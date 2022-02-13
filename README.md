@@ -1,6 +1,8 @@
 # General info
 This simple shopping cart project is part of my Altcademy JQuery course.
 
+![Preview for my shopping cart](./images/shopping-cart.mp4)
+
 # Technologies
 Project is created with:
 
