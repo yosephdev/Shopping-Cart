@@ -2,7 +2,7 @@
 This simple shopping cart project is part of my Altcademy JQuery course.
 
 # Demo
-[![Watch the video]()](https://www.youtube.com/watch?v=-_tiIy3LhYo)
+[![Watch the video](./images/shopping-cart.png)](https://www.youtube.com/watch?v=-_tiIy3LhYo)
 
 # Technologies
 Project is created with:
